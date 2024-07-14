@@ -15,6 +15,9 @@
 # }
 
 {
+	description = "Enable Plymouth";
+	# From NixOS Discourse "How do people work on Plymouth themes on NixOS?"
+	
 	inputs = {
 		nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
 		fu.url = "github:numtide/flake-utils";
