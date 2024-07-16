@@ -20,7 +20,7 @@
 
 
 
-  networking.hostName = "edenlinux"; # Define your hostname.
+  networking.hostName = "New Eridu"; # Define your hostname.
   # Pick only one of the below networking options.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
   networking.networkmanager.enable = true;  # Easiest to use and most distros use this by default.
@@ -82,6 +82,7 @@
       alacritty-theme
       fastfetch
       zsh
+      oh-my-zsh
     ];
   };
 
@@ -96,6 +97,23 @@
     wget
     curl
     git
+    jetbrains.writerside
+    jetbrains.webstorm
+    jetbrains.ruby-mine
+    jetbrains.rust-rovers
+    jetbrains.rider
+    jetbrains.phpstorm
+    jetbrains.mps
+    jetbrains.clion
+    jetbrains.goland
+    jetbrains.idea-ultimate
+    jetbrains.gateway
+    jetbrains.dataspell
+    jetbrains.pycharm-comminity
+    vscode
+    android-studio
+    GitLab
+    github-desktop
   ];
 
   # Some programs need SUID wrappers, can be configured further or are

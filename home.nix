@@ -77,4 +77,4 @@
 }
 
   # Config Hyprland
-
+  programs.hyprland.enable = true;

@@ -17,7 +17,8 @@
 {
 	description = "Enable Plymouth";
 	# From NixOS Discourse "How do people work on Plymouth themes on NixOS?"
-	
+	# But it doesn't work on NixOS 24.05. So I'm trying to config another Flakes.
+
 	inputs = {
 		nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
 		fu.url = "github:numtide/flake-utils";

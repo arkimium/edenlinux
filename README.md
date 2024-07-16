@@ -34,6 +34,22 @@ The Repository now release **yarnOS** Configuration. Included
     wget
     curl
     git
-    jetbrains.pycharm-community
+    jetbrains.writerside
+    jetbrains.webstorm
+    jetbrains.ruby-mine
+    jetbrains.rust-rovers
+    jetbrains.rider
+    jetbrains.phpstorm
+    jetbrains.mps
+    jetbrains.clion
+    jetbrains.goland
+    jetbrains.idea-ultimate
+    jetbrains.gateway
+    jetbrains.dataspell
+    jetbrains.pycharm-comminity
+    vscode
+    android-studio
+    GitLab
+    github-desktop
   ];
   ```
